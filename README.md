@@ -30,3 +30,15 @@ analysis.
 Report python notebook*
 
 This data is published under the CC0 license, so it is free to use in this context.
+
+## References
+The following are the resources referenced to decide on user features to target and for some background:
+
+- [Political Astroturfing in South Korea](https://www.researchgate.net/profile/Junghwan_Yang2/publication/317290047_How_to_Manipulate_Social_Media_Analyzing_Political_Astroturfing_Using_Ground_Truth_Data_from_South_Korea/links/59305a9ca6fdcc89e7844440/How-to-Manipulate-Social-Media-Analyzing-Political-Astroturfing-Using-Ground-Truth-Data-from-South-Korea.pdf)
+
+- [Russian Political Disinformation](https://secondaryinfektion.org/)
+
+- [Detecting the Use of Multiple Accounts](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4013)
+
+- [Common Signs of Bots](https://blog.mozilla.org/internetcitizen/2018/01/08/irl-how-to-spot-a-bot/)
+
